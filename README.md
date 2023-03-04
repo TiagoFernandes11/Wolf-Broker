@@ -1,38 +1,46 @@
-# Wolf-Broker
+# Wolf Broker
 
 Wolf Broker é um sistema criado com a finalidade de comprar e vender ações na bolsa de valores dos Estados Unidos (NASDAQ)
 
-Funcionalidades do sistema
-Login
+### Funcionalidades do sistema
+
+#### Login
 Servirá para que o usuário (já existente) possa logar em sua conta
+* Requisitos do usuário: email e senha
 
-Requisitos do usuário: email e senha
-Cadastro
+#### Cadastro
 Servirá para que, aqueles que não tem conta, possam criar uma
+* Requisitos do usuário: nome, email, senha, data de nascimento, CPF
 
-Requisitos do usuário: nome, email, senha, data de nascimento, CPF
-Depósito
+#### Depósito
 Servirá para que possa ser depositado dinheiro/saldo na conta (fictício)
+* Requisitos do usuário: ----
 
-Requisitos do usuário: ----
-Saque
+#### Saque
 Servirá para retirar o dinheiro/saldo da sua conta (fictício)
+* Requisitos do usuário: ----
 
-Requisitos do usuário: ----
-Comprar ações
-Servirá para que o usuário possa comprar ações na bolsa de valores estadunidense
+#### Comprar ações
+ Servirá para que o usuário possa comprar ações na bolsa de valores estadunidense
+* Requisitos do usuário: saldo
 
-Requisitos do usuário: saldo
-Vender ações
+#### Vender ações
 Servirá para que o usuário possa vender as ações que ele possui
+* Requisitos do usuário: ações
 
-Requisitos do usuário: ações
-Visualizar ações
+#### Visualizar ações
 Servirá para que o usuário possa visualizar antes mesmo de comprar as ações, com referência a:
+- propriedades das empresas em que as ações pertencem
+- preços antigos
+- preço atual
 
-propriedades das empresas em que as ações pertencem
-preços antigos
-preço atual
-Casos de Uso
-https://whimsical.com/wolf-broker-X3JvkwLwjutfnSwNFmRTAv
+
+### Casos de Uso
+
+- https://whimsical.com/wolf-broker-X3JvkwLwjutfnSwNFmRTAv
+
+
+
+
+
 | Projeto Integrador, faculdade: curso Análise e Desenvolvimento de Sistemas, 3ºS
